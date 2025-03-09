@@ -49,7 +49,7 @@ What fascinates me most about data is its ability to communicate meaning, transf
 
 When I’m not exploring data, I love:  
 - 🎵 Producing music on FL Studio (I also play 🎹 and 🪘)
-- 🌌 Learning about space and staying informed on new astronomical discoveries. 
+- 🌌 Learning about space and staying informed on new astronomical discoveries 
 - 🎥 Making commercial-like videos, especially with my drone
 - 🎌 Diving into anime and manga
 
