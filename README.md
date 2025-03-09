@@ -39,7 +39,7 @@ What fascinates me most about data is its ability to communicate meaning, transf
 </table>
 
 
-## What I'm learning now  📚
+## What am I learning now? 📚
 
 📊 **Advanced Data Visualization with Python** → Enhancing storytelling using **Matplotlib, Seaborn, and Plotly**  
 
