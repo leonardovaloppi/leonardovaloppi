@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*jHvcPouDW9gpFJns79oztw.jpeg" alt="Data Analytics Banner" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=15NuIBTmq_CpE65OkE5KzVAMdwmkj9zn9" alt="Turing College Banner" width="100%"/>
 </h1>
 
 <h1 align="center">Welcome! I'm Leonardo Valoppi! 👋</h1>
@@ -8,42 +8,30 @@
 <!-- ABOUT ME -->
 <h2>📊 About Me</h2>
 <p>
-  🔍 Passionate about data-driven problem-solving, I specialize in <span style="color:#1E90FF; font-weight:bold;">SQL</span>, <span style="color:#1E90FF; font-weight:bold;">Python</span>, and <span style="color:#1E90FF; font-weight:bold;">data visualization</span>. <br>
+  🔍 Passionate about data-driven problem-solving, I specialize in <strong><em>SQL</em></strong>, <strong><em>Python</em></strong>, and <strong><em>data visualization</em></strong>. <br>
   📈 I love uncovering patterns in data and translating them into meaningful insights that drive strategic decisions. <br>
   🚀 Curious and detail-oriented, I enjoy tackling complex problems, optimizing workflows, and making sense of structured datasets. <br>
-  🌍 I thrive in international, fast-paced environments and strongly believe in continuous learning and collaboration. <br>
-  🎯 My goal is to apply <span style="color:#1E90FF; font-weight:bold;">data analytics</span> to business challenges, enabling better decision-making through structured and insightful analysis.  
+  🌍 I thrive in international, fast-paced environments and strongly believe in <strong><em>continuous learning</em></strong> and collaboration. <br>
+  🎯 My goal is to apply <strong><em>data analytics</em></strong> to business challenges, enabling better decision-making through structured and insightful analysis.  
 </p>
-
-<!-- GIF -->
-<h2 align="center">
-  <img src="https://www.caramelit.com/business/images/digital1.gif" alt="Digital Data GIF" width="50%"/>
-</h2>
 
 <!-- TECHNICAL TOOLKIT -->
 <h2>🛠️ Technical Toolkit</h2>
 <p>
-  💾 <strong>SQL Expertise:</strong> <span style="color:#1E90FF;">BigQuery</span>, MySQL  <br>
-  📊 <strong>Data Visualization:</strong> <span style="color:#1E90FF;">Tableau</span>, Google Spreadsheets  <br>
-  🐍 <strong>Python for Data Analytics:</strong> <span style="color:#1E90FF;">Pandas</span>, NumPy, Matplotlib  <br>
-  🔄 <strong>Version Control:</strong> <span style="color:#1E90FF;">Git</span>, GitHub 
-</p>
-
-<!-- TOOLS & TECHNOLOGIES -->
-<h2>⚙️ Tools & Technologies</h2>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tableau_Logo.png" alt="Tableau" width="90" height="50"/>
+  💾 <strong>SQL Expertise:</strong> BigQuery, MySQL <br>
+  📊 <strong>Data Visualization:</strong> Tableau, Google Spreadsheets, Excel, PowerPoint <br>
+  🐍 <strong>Python for Data Analytics:</strong> Pandas, NumPy, Matplotlib <br>
+  🔄 <strong>Version Control:</strong> Git, GitHub <br>
+  📦 <strong>Environment & Package Management:</strong> Conda <br>
+  🖥️ <strong>Development & Notebooks:</strong> VS Code, Jupyter Notebook
+    
 </p>
 
 <!-- INTERESTS -->
 <h2>🎯 Interests</h2>
 <p>
-  📖 <span style="color:#1E90FF;">Data storytelling</span> and visualization  <br>
-  🌱 Continuous learning and knowledge-sharing  <br>
+  📖 <strong><em>Data storytelling</em></strong> and visualization  <br>
+  🌱 <strong><em>Continuous learning</em></strong> and knowledge-sharing  <br>
   🧘 Exploring different cultures and international work environments  
 </p>
 
