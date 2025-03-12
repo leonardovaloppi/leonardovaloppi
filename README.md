@@ -22,7 +22,7 @@ What fascinates me most about data is its ability to communicate meaning, transf
           <br>
       📊 &nbsp Data visualization and reporting → Tableau  <br>
           <br>
-      🐍 &nbsp Python for data analytics → NumPy, Pandas, Matplotlib <br>
+      🐍 &nbsp Python for data analytics → NumPy, Pandas <br>
           <br>
       🌐 &nbsp Version Control → Git and GitHub  <br>
           <br>
