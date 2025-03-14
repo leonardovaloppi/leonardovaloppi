@@ -39,7 +39,7 @@ I’m a Data Analyst specializing in Cohort Analysis, Funnels, and A/B testing!
 
 ## What am I learning now? 📚
 
-📊 **Advanced Data Visualization with Python** → Enhancing storytelling using **Matplotlib, Seaborn, and Plotly**  
+📊 **Advanced Data Visualization with Python** → **Matplotlib, Seaborn, and Plotly**  
 
 
 
