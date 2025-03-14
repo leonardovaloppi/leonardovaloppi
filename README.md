@@ -3,9 +3,7 @@
 ### Welcome to my GitHub space! 🚀
 
 ## Who am I? 🤔
-I’m a Data Analyst specializing in Cohort Analysis, Funnels, and A/B testing, using data to uncover strategic insights and drive business decisions 🤯
-
-What fascinates me most about data is its ability to communicate meaning, transforming raw figures into actionable insights that shape strategies and create impact.
+I’m a Data Analyst specializing in Cohort Analysis, Funnels, and A/B testing!
 
 
 
