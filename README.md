@@ -5,7 +5,11 @@
 ## Who am I? 🤔
 I’m a Data Analyst specializing in Cohort Analysis, Funnels, and A/B testing!
 
+### Visit my repositories 🗂️
 
+[![Spotify Analysis](https://img.shields.io/badge/GitHub-Spotify%20Top%2050-blue?style=flat&logo=github)](https://github.com/leonardovaloppi/Spotify-Top-50-Songs)  
+[![A/B Testing](https://img.shields.io/badge/GitHub-A/B%20Testing%20Project-green?style=flat&logo=github)](https://github.com/leonardovaloppi/Fast-Food-Marketing-Campaigns-A-B-Test
+)  
 
 ### What's in my bag? 🛠️
 
@@ -55,3 +59,5 @@ When I’m not exploring data, I love:
 ## Let's keep in touch! 📬  
 
 I always love to connect with new people. You can find me on **[LinkedIn](https://linkedin.com/in/leonardo-valoppi)**!
+
+Look at the dashboards I've created in **[Tableau Public](https://public.tableau.com/app/profile/leonardo.valoppi/vizzes)**!
