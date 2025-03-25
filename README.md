@@ -7,9 +7,9 @@ I’m a Data Analyst specializing in Cohort Analysis, Funnels, and A/B testing!
 
 ### Visit my repositories 🗂️
 
-[![Spotify Analysis](https://img.shields.io/badge/GitHub-Spotify%20Top%2050-blue?style=flat&logo=github)](https://github.com/leonardovaloppi/Spotify-Top-50-Songs)  
-[![A/B Testing](https://img.shields.io/badge/GitHub-A/B%20Testing%20Project-green?style=flat&logo=github)](https://github.com/leonardovaloppi/Fast-Food-Marketing-Campaigns-A-B-Test
-)  
+[![EDA | Spotify Top 50 Songs](https://img.shields.io/badge/GitHub-EDA%20%7C%20Spotify%20Top%2050%20Songs-blue?style=flat&logo=github)](https://github.com/leonardovaloppi/Spotify-Top-50-Songs)
+[![A/B Testing – Marketing Campaigns](https://img.shields.io/badge/GitHub-A%2FB%20Testing%20%7C%20Marketing%20Campaigns-006400?style=flat&logo=github)](https://github.com/leonardovaloppi/Fast-Food-Marketing-Campaigns-A-B-Test)
+[![Funnel Analysis – E-commerce](https://img.shields.io/badge/GitHub-Funnel%20Analysis%20%7C%20E--commerce%20Users-8B0000?style=flat&logo=github)](https://github.com/leonardovaloppi/E-Commerce-Funnel-Analysis)
 
 ### What's in my bag? 🛠️
 
