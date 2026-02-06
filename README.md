@@ -1,9 +1,5 @@
 
-# Nice to meet you! ✨
-### Welcome to my GitHub space! 🚀
-
-## Who am I? 🤔
-I’m a Data Analyst specializing in Cohort Analysis, Funnels, and A/B testing!
+# Nice to meet you! ✨ Welcome to my GitHub space! 🚀
 
 ### Visit my repositories 🗂️
 
