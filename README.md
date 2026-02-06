@@ -1,7 +1,7 @@
 
 # Welcome to my Data Analytics portfolio!
 
-### Visit my repositories 🗂️
+### Explore my projects 🗂️
 
 [![Funnel Analysis – E-commerce](https://img.shields.io/badge/GitHub-Funnel%20Analysis%20%7C%20E--commerce%20Users-8B0000?style=flat&logo=github)](https://github.com/leonardovaloppi/E-Commerce-Funnel-Analysis)
 [![ML | Coronary Heart Disease Prediction](https://img.shields.io/badge/GitHub-ML%20%7C%20Coronary%20Heart%20Disease%20Prediction-800080?style=flat&logo=github)](https://github.com/leonardovaloppi/Coronary-Heart-Disease-Prediction)
