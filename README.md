@@ -1,5 +1,5 @@
 
-# Nice to meet you! ✨ Welcome to my GitHub space! 🚀
+# Nice to meet you! ✨ Welcome to my Data Analytics portfolio! 🚀
 
 ### Visit my repositories 🗂️
 
