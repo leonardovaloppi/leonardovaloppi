@@ -9,6 +9,8 @@
 [![EDA | Time Before Purchase Analysis](https://img.shields.io/badge/GitHub-EDA%20%7C%20Time%20Before%20Purchase%20Analysis-008080?style=flat&logo=github)](https://github.com/leonardovaloppi/Time-Before-Purchase-Analysis)
 [![A/B Testing – Marketing Campaigns](https://img.shields.io/badge/GitHub-A%2FB%20Testing%20%7C%20Marketing%20Campaigns-006400?style=flat&logo=github)](https://github.com/leonardovaloppi/Fast-Food-Marketing-Campaigns-A-B-Test)
 
+<br>
+
 ### What's in my bag? 🛠️
 
 <table>
@@ -26,13 +28,13 @@
           <br>
       </ul>
     <td width="100%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGd5cWZxMTh2NHl6aHQzb2N3a2NsbGZndTRubWR0bHk3MzhqOXkwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="260px"  alt="Me at work lol">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGd5cWZxMTh2NHl6aHQzb2N3a2NsbGZndTRubWR0bHk3MzhqOXkwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250px"  alt="Me at work lol">
       <p align="center"><i>Me looking for some good insights </i></p>
     </td>
   </tr>
 </table>
 
-
+<br>
 
 ## Hobbies and interests 🎧
 
@@ -41,7 +43,8 @@ When I’m not exploring data, I love:
 - 🌌 Learning about space and staying informed on new astronomical discoveries 
 - 🏃🏻 Running 
 
-  
+<br>
+
 ## Let's keep in touch! 📬  
 
 I always love to connect with new people. You can find me on **[LinkedIn](https://linkedin.com/in/leonardo-valoppi)**!
