@@ -1,5 +1,5 @@
 
-# Nice to meet you! ✨ Welcome to my Data Analytics portfolio! 🚀
+# Welcome to my Data Analytics portfolio!
 
 ### Visit my repositories 🗂️
 
